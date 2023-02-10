@@ -65,7 +65,7 @@ body{
 .card .title{
     margin-top:15px;
     font-size: 3rem;
-    font-weight:bolder;
+    font-weight:700;
     margin-left:25px;
     line-height: 40px;
 }
@@ -92,7 +92,7 @@ body{
 .card .price h1{
     font-size: 2.5rem;
     color: hsl(158, 36%, 37%);
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .card .price h6{
